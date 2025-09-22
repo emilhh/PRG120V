@@ -2,7 +2,7 @@
 /*
 /* Programmet foretar tilkobling til database-server og valg av database
 */
-$host = getenv('274645@158.36.151.20');
+$host = getenv('b-studentsql-1.usn.no');
 $username = getenv('274645');
 $password = getenv('161b274645');
 $database = getenv('274645');
